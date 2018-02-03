@@ -1,0 +1,16 @@
+---
+title: "Tutorial"
+author: "Yue Yang"
+date: "Jan. 27, 2018"
+output: html_document
+---
+
+* #### This is an shiny app created for the final project of datascience capstone. It is a next word predictor based on the "stupid back-off" approach.
+
+* #### To use the app, the user only need to input a sentence and click "predict" button. 
+
+* #### The top 10 words with highest probabilities are listed according to their generalized scores. The left list is the prediction with stopwords included and the right list is the result without stopwords.
+
+* #### To reset the input, click "reset".
+
+### Have fun!

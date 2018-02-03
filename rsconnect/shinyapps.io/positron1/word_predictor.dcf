@@ -1,0 +1,10 @@
+name: word_predictor
+title:
+username:
+account: positron1
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 270910
+bundleId: 1205528
+url: https://positron1.shinyapps.io/word_predictor/
+when: 1517624894.79161
