@@ -1,2 +1,2 @@
 library(rsconnect)
-rsconnect::deployApp("C:/Users/Yue Yang/Desktop/R project/capstone/word predictor")
+rsconnect::deployApp("C:/Users/Yue Yang/Desktop/R project/capstone/word_predictor")

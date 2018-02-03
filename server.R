@@ -17,7 +17,7 @@ topwords<-function(nGrams,n)
 
 
 shinyServer(
-  function(input, output, session) {
+  function(input, output) {
     
     set.seed(1234)
     

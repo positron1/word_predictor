@@ -4,7 +4,7 @@ username:
 account: positron1
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
-appId: 270910
-bundleId: 1205528
+appId: 271162
+bundleId: 1205982
 url: https://positron1.shinyapps.io/word_predictor/
-when: 1517624894.79161
+when: 1517676352.48946

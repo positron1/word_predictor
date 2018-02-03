@@ -1,13 +1,8 @@
 library(shiny)
 
 shinyUI(
-  navbarPage("",
+  navbarPage("Next word predictor",
     tabPanel("Use the App",
-    
-             h1("Next word predictor", 
-                style = "font-family: 'Lobster', cursive;
-                font-weight: 500; line-height: 1.1; 
-                color: #4d3a7d;"),
              
     fluidRow(shinyjs::useShinyjs(),
       column(4,
